@@ -1,6 +1,6 @@
 import React from "react"
-import { View, Text, SafeAreaView, ScrollView, Dimensions, Image, Touchable } from "react-native"
-import { FlatList, TouchableOpacity } from "react-native-gesture-handler"
+import { View, Text, SafeAreaView, ScrollView, Dimensions, Image, TouchableOpacity,FlatList } from "react-native"
+// import { FlatList, TouchableOpacity } from "react-native-gesture-handler"
 import img1 from "../images/imagehand.png"
 import img2 from "../images/person.jpg"
 import FontAwesome from "react-native-vector-icons/FontAwesome"
